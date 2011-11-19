@@ -1,0 +1,5 @@
+This Minecraft Classic mod adds alphabet blocks to the game.
+
+This project contains code that is copyrighted by Mojang AB. 
+
+To build, put minecraft.jar and any libraries required into the lib folder, and then run ant. 
